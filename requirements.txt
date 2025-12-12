@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+langchain-google-genai
+langchain-core
+langgraph
+crewai[tools]
+litellm
+pyautogen
+mcp
+google-generativeai
+openai
+requests
+beautifulsoup4
